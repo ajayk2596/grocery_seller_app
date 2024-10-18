@@ -1,0 +1,343 @@
+{
+  "project_info": {
+    "project_number": "930712543597",
+    "firebase_url": "https://fluttertests-fbb08-default-rtdb.firebaseio.com",
+    "project_id": "fluttertests-fbb08",
+    "storage_bucket": "fluttertests-fbb08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930712543597:android:2c983a59bcd4466035ba64",
+        "android_client_info": {
+          "package_name": "com.ajay.grocery_seller_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RYmhdi_x8wI8UqCd16E30gdSyd13b4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930712543597-50f78u8k24itgo82g1eiakqulhhotnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.realtimeDatabase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930712543597:android:d62119788eba04c535ba64",
+        "android_client_info": {
+          "package_name": "com.edugaon.deep_linking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RYmhdi_x8wI8UqCd16E30gdSyd13b4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930712543597-50f78u8k24itgo82g1eiakqulhhotnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.realtimeDatabase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930712543597:android:3a263449596fc8cb35ba64",
+        "android_client_info": {
+          "package_name": "com.edugaon.flutter_test_one"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930712543597-i8mbkbl9974usqh788f5jngaib45in5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edugaon.flutter_test_one",
+            "certificate_hash": "afbf75f4251e254bd918ad792a5eca37d18cc00c"
+          }
+        },
+        {
+          "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RYmhdi_x8wI8UqCd16E30gdSyd13b4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930712543597-50f78u8k24itgo82g1eiakqulhhotnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.realtimeDatabase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930712543597:android:8fced98f73e40d5435ba64",
+        "android_client_info": {
+          "package_name": "com.edugaon.flutter_test_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RYmhdi_x8wI8UqCd16E30gdSyd13b4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930712543597-50f78u8k24itgo82g1eiakqulhhotnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.realtimeDatabase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930712543597:android:f31d987c09e3a00c35ba64",
+        "android_client_info": {
+          "package_name": "com.edugaon.realtime_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RYmhdi_x8wI8UqCd16E30gdSyd13b4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930712543597-50f78u8k24itgo82g1eiakqulhhotnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.realtimeDatabase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930712543597:android:80cf1d0426b88ef435ba64",
+        "android_client_info": {
+          "package_name": "com.example.dynamic_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RYmhdi_x8wI8UqCd16E30gdSyd13b4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930712543597-50f78u8k24itgo82g1eiakqulhhotnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.realtimeDatabase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930712543597:android:84e06d54848a5e6235ba64",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RYmhdi_x8wI8UqCd16E30gdSyd13b4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930712543597-50f78u8k24itgo82g1eiakqulhhotnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.realtimeDatabase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930712543597:android:bd625197bfa578a335ba64",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RYmhdi_x8wI8UqCd16E30gdSyd13b4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930712543597-50f78u8k24itgo82g1eiakqulhhotnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.realtimeDatabase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930712543597:android:00d2099cc7e216af35ba64",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_RYmhdi_x8wI8UqCd16E30gdSyd13b4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930712543597-r2155mcdovcl2l4l7pa4p2q6hs7dppgt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930712543597-50f78u8k24itgo82g1eiakqulhhotnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.edugaon.realtimeDatabase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
